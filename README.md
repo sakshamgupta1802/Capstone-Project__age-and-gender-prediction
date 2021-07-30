@@ -16,6 +16,13 @@ inference_live_feed.py  is file which  take live image of a person to test the g
 
 I have run this on Windows. I have not tried this on linux and OS.
 
+
+Download js.model file from below link.(This file is saved in my drive file. you can download it from here.)
+
+
+https://drive.google.com/file/d/1HbpZsfUPncZXooqoAppn9VqyVmXLI7zJ/view?usp=sharing
+
+
 Open Anaconda Prompt
 
 Write python inference_live_feed.py
