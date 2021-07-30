@@ -22,6 +22,8 @@ Download js.model file from below link.(This file is saved in my drive file. you
 
 https://drive.google.com/file/d/1HbpZsfUPncZXooqoAppn9VqyVmXLI7zJ/view?usp=sharing
 
+Also clone the inference_live_feed.py file.
+
 
 Open Anaconda Prompt
 
