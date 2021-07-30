@@ -20,7 +20,7 @@ Thats it.
 
 # To run the code.
 
-git clone 
+git clone https://github.com/sakshamgupta1802/Capstone-Project__age-and-gender-prediction.git
 
 Run Training.ipynb file  on Jupyter Notebook.
 
