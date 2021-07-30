@@ -27,8 +27,14 @@ Thats it.
 git clone https://github.com/sakshamgupta1802/Capstone-Project__age-and-gender-prediction.git
 
 Run Training.ipynb file  on Jupyter Notebook.
+
+
 Run Testing.ipynb file on Jupyter Notebook.
+
+
 Run inference_live_feed.py 
+
+
 Thats it.
 
 
